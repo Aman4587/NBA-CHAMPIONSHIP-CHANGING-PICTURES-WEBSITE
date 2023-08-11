@@ -1,0 +1,16 @@
+button{
+    background: rgb(255,10,10);
+    background: linear-gradient(90deg, rgba(255,10,10,1) 0%, rgba(215,255,0,1) 16%, rgba(0,255,16,1) 32%, rgba(0,212,255,1) 46%, rgba(89,0,255,1) 66%, rgba(255,0,202,1) 86%);
+font-size: 40px;
+padding:50px
+font-family: 'Borel', cursive;
+font-family: 'Cedarville Cursive', cursive;
+}
+body{
+    background: rgb(215,164,195);
+    background: linear-gradient(90deg, rgba(215,164,195,1) 0%, rgba(23,144,161,1) 36%, rgba(185,255,0,1) 66%, rgba(255,0,202,1) 86%);
+}
+h1{
+    font-family: 'Borel', cursive;
+font-family: 'Cedarville Cursive', cursive;
+}
