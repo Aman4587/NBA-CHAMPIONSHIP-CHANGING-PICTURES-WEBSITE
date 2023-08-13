@@ -6,5 +6,8 @@ function show_team (){
 }
 function hide_team(){
     document.querySelector("img").style.display = "none"
-    showing=false
+    showing = false
+}
+function bt {
+    showing = true 
 }
